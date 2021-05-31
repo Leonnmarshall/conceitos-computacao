@@ -11,7 +11,7 @@ Conteúdo da disciplina de Conceitos da Computação II - Faculdade Senac.
 
 **O uso Circuitos Contadores nas tarefas do cotidiano, construindo um relógio digital.**
 
-**Desafio: *Crie as etapas para o funcionamento de um relógio digital, da seguinte forma:**
+ ** Desafio: *Crie as etapas para o funcionamento de um relógio digital, da seguinte forma: **
 
 * A) Elabore um diagrama em blocos, especificando em cada bloco o tipo de contador, decodificador e display
 
