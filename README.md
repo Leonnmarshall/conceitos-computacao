@@ -2,7 +2,8 @@
 Conteúdo da disciplina de Conceitos da Computação II - Faculdade Senac.
 
 
-
+|       | | |
+| :---: | :-: | :-----------: |
 | PROFESSOR | MARCO ANTONIO BARRETO | 
 | ALUNO | LEONARDO MARÇAL | ID: 1142233185 | 
 
