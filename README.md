@@ -22,7 +22,8 @@ Conteúdo da disciplina de Conceitos da Computação II - Faculdade Senac.
 
 * B) Depois, utilizando os circuitos lógicos, represente o relógio digital na forma de diagrama lógico, especificando o tipo de circuito integrado a
 ser utilizado.
+![Relogio](pti/Logisim_ principal.png)
 **observação: os circuitos podem ser acessados na pasta "pti", assim como o circuito completo desenvolvido através do soft silogism.**
 
-![Relogio](pti/Logisim_ principal.png)
+
 
