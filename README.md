@@ -18,5 +18,7 @@ Conteúdo da disciplina de Conceitos da Computação II - Faculdade Senac.
 
 * A) Elabore um diagrama em blocos, especificando em cada bloco o tipo de contador, decodificador e display
 
+![Diagrama](/Pti/Diagrma.png)
+
 * B) Depois, utilizando os circuitos lógicos, represente o relógio digital na forma de diagrama lógico, especificando o tipo de circuito integrado a
 ser utilizado.
