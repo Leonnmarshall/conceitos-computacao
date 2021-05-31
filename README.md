@@ -24,8 +24,9 @@ Conteúdo da disciplina de Conceitos da Computação II - Faculdade Senac.
 ser utilizado.
 
 **observação: os circuitos podem ser acessados na pasta "pti", assim como o circuito completo desenvolvido através do soft silogism.**
+[Imagens dos Circuitos](https://github.com/Leonnmarshall/conceitos-computacao/tree/main/pti)
 
-![foxdemo](https:https://github.com/Leonnmarshall/conceitos-computacao/blob/main/pti/Logisim_%20principal.png)
+
 
 
 
