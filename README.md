@@ -1,10 +1,10 @@
 # conceitos-computacao
 Conteúdo da disciplina de Conceitos da Computação II - Faculdade Senac.
 
+|   | Autores |  |
 | :---: | :-: | :-----------: |
 | PROFESSOR | MARCO ANTONIO BARRETO | 
 | ALUNO | LEONARDO MARÇAL | 1142233185 | 
-
 
 
 #Tema: **O uso Circuitos Contadores nas tarefas do cotidiano, construindo um relógio digital.**
